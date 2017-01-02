@@ -20,7 +20,7 @@
 - [Introduction](#introduction)
 - [Why Fluid Design](#why-fluid-design)
 - [Technologies Used in Development](#technologies-used-in-development)
-  - [HTML](#html)
+  - [HTML3](#html3)
   - [CSS3](#css3)
   - [jQuery](#jQuery)
   - [Adwords and SEO](#adwords-and-seo)
