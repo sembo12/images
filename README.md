@@ -1,18 +1,18 @@
 <div align="center">
 <h1>Website (Fluid-Design)</h1> 
-<h2>Synopsis of Software Development</h2>
+<h2>Software Development Documentation</h2>
   <h3>
     <a href="#">
-      Fluid Design (HTML5 / CSS3 /jQuery)
+      Fluid Design (HTML5 / CSS3 /jQuery /PHP)
     </a>
   </h3>
 </div>
 
 <div align="center">
   <sub>Developed and Designed by
-  <a href="#">Joe</a> for
+  <a href="#">Joseph M Mwania</a> for
   <a href="#">
-    App
+    Appwebtech
   </a>
 </div>
 
@@ -29,6 +29,7 @@
   - [Deployment instructions](#deployment-instructions)
   - [Developer](#developer)
   - [Contacts](#contacts)
+  - [License](#license)
 
 # Introduction
 
@@ -36,7 +37,7 @@ Most Web Designers are torn between the choice of using a fluid, fixed, hybrid o
 
 I have used my familiy's farm in Kenya as an example or inspiration in making this website. Apart from been a medical doctor, my fathers passion was in farming. He did that on the side as an hobby which turned out to be a business and a very prolific one for that matter. He was sought after by brokers who would buy his farm produce (fruits) for less and later sell them for profit. It was difficult for him to venture and create a rapport with clients overseas because internet connectivity was still evolving in that part of the world, but times have changed. 
 
-Farmers now have a clear idea of how much their raw materials (fruits, coffee, tea, cocoa, etc) fetch not only locally, but in the international markets. They can fathom how to add value in their products with the cons and pros of selling raw materials as opposed to selling processed products. [This](https://cloud.githubusercontent.com/assets/20464709/21592404/87a3c782-d10d-11e6-9a4c-588ea754996d.png) for instance will cost more than [this](https://cloud.githubusercontent.com/assets/20464709/21592406/89d37e08-d10d-11e6-86fc-2a9604948f65.png) because there is value added in it. 
+Farmers now have a clear idea of how much their raw materials (fruits, coffee, tea, cocoa, etc) fetch not only locally, but in the international markets. They can fathom how to add value in their products with the cons and pros of selling raw materials as opposed to selling processed products. [This](https://cloud.githubusercontent.com/assets/20464709/21592406/89d37e08-d10d-11e6-86fc-2a9604948f65.png) for instance will cost more than [this](https://cloud.githubusercontent.com/assets/20464709/21592404/87a3c782-d10d-11e6-9a4c-588ea754996d.png) because there is value added in it. 
 
 When I was studying [Entrepreneurship](https://www.coursera.org/account/accomplishments/specialization/WTLNATFS2JEL)  at [Mtech](http://eip.umd.edu/) , one of my professors at the time, [Prof. James Green](https://www.linkedin.com/in/jvgreen) stressed so much about the Customer Development Process (CDP). He said that during CDP, you must have a functional way to search for your customers and in retrospect, I have validated all his lectures in real life situations. There is a reason as to why many companies today are opting to use [Social Media](https://en.wikipedia.org/wiki/Social_media) to direct potentials customers to their websites in order to close sales. 
 
@@ -122,7 +123,7 @@ It's easy to know the demographics of my visitors, even though in my case, I alr
 
 
 Below is an image with the demographics of my website visitors.
-![analytics_1](https://cloud.githubusercontent.com/assets/20464709/21590425/edee9d94-d0fb-11e6-95f4-702895e68e2d.png)
+![1](https://cloud.githubusercontent.com/assets/20464709/21944932/ea1d3d5c-d9d8-11e6-9d42-fad95f39dc61.png)
 <hr>
 
 An overview of your audience, their age and type of tech they are using in regard to browsers, OS, service providers together with their platforms like mobile or desktop can help in creating decisions on how to market your products. 
@@ -130,16 +131,16 @@ An overview of your audience, their age and type of tech they are using in regar
 <hr>
 
 ### Browsers
-![analytics_3](https://cloud.githubusercontent.com/assets/20464709/21590439/103480ee-d0fc-11e6-8c0c-e0fb223b800a.png)
+![2](https://cloud.githubusercontent.com/assets/20464709/21945033/64955a24-d9d9-11e6-933c-279050d09cea.png)
 <hr>
 
 ### Platforms (Mobile or Desktop)
-![analytics 4](https://cloud.githubusercontent.com/assets/20464709/21590445/1ceeceb6-d0fc-11e6-8818-48d2a7025218.png)
+![3](https://cloud.githubusercontent.com/assets/20464709/21945122/d9a01e94-d9d9-11e6-8597-a0beab2c0c3b.png)
 <hr>
 
 ### Mobile (Devices)
 I can dig deeper to find out how many sessions were logged using an iPhone for instance. 
-![analytics_5](https://cloud.githubusercontent.com/assets/20464709/21590448/28e11922-d0fc-11e6-9bfa-4ac7f435f390.png)
+![4](https://cloud.githubusercontent.com/assets/20464709/21945185/295f67be-d9da-11e6-88a5-15893afa494b.png)
 <hr>
 
 ### Cohort Analysis 
@@ -170,7 +171,7 @@ I've used GitHub **gh-pages** to host the website because it's a simple single w
 
 ## Developer
 
-joe
+Joseph M Mwania
 
 ## Contacts
 
@@ -185,5 +186,6 @@ https://www.facebook.com/theappwebtech/
 https://it.pinterest.com/appwebtech/
 
 
+## License
 
-
+MIT License. Copyright 2016 
