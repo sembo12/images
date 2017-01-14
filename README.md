@@ -34,6 +34,7 @@
   - [Deployment instructions](#deployment-instructions)
   - [Developer](#developer)
   - [Contacts](#contacts)
+  - [License](#license)
 
 
 # Introduction
@@ -86,7 +87,7 @@ There are a myriad of reason as to why I love using open-source software in desi
 
 # Why Wordpress?
 
-Wordpress has somewhat become trendy in building CMS's for web publishing if the main goal is to have a website with pages, media, links and posts. A skilled developer can easily venture deep in the Wordpress ecosystem and use themes and plugins to suit his/her **needs**. Talking of needs, a bus cannot float on water unless it's well customised to function like a boat, like a case I saw in Budapest.   
+Wordpress has somewhat become trendy in building CMS's for web publishing especially if the main goal is to have a website with pages, media, links and posts. A skilled developer can easily venture deep in the Wordpress ecosystem and use themes and plugins to suit his/her **needs**. Talking of needs, a bus cannot float on water unless it's well customised to function like a boat, like a case I saw in Budapest.   
 
 ![img_9373](https://cloud.githubusercontent.com/assets/20464709/21954779/f02dbfe0-da5b-11e6-9d50-4fb5b11a5981.JPG)
 
@@ -408,6 +409,9 @@ https://www.facebook.com/theappwebtech/
 
 https://it.pinterest.com/appwebtech/
 
+## License 
+
+MIT License. Copyright 2017
 
 
 
