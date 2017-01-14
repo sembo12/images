@@ -38,7 +38,7 @@
 
 # Introduction
 
-Wordpress is a CMS that uses plugins, themes etc to enhance the functionality and usability within a website. It runs PHP in the BackEnd and HTML5 and CSS (no severside scrypting like SASS). Many bloggers do use wordpress due to it's versatility and easy to manage posts. 
+Wordpress is a CMS that uses plugins, themes etc to enhance the functionality and usability within a website. It runs PHP in the BackEnd and HTML5 and CSS (no severside scrypting like SASS). Many bloggers do use wordpress due to it's versatility and UX/UI customizability. 
 
 ## Why did I write this documentation
 
@@ -49,15 +49,17 @@ It was the smallest and first portable computer weighing **28 kg's** and costed 
 See the IBM 5110 below.
 <center>![5](https://cloud.githubusercontent.com/assets/20464709/21954623/e9df5ec8-da56-11e6-904e-7508c1d1cbac.jpeg)</center>
 *Source: IBM*
+<hr>
 
 ## Who is my target audience
 
-To be honest, I figured out that the people who were asking if they could use my software were the people who needed help to know how the code worked. The rule of the thumb is; *if it's on GitHub, then it's open source and freely to use under the MIT license.* But getting stuck, people are prompted to write to developers and request help / opinion on how a certin scipt would fit well in their projects. 
-So this is targeted to developers and users who are curious to know the behind the scenes stuff on what made it possible for the application's functionality.
+I figured out that the people who were asking if they could use my software were the people who needed help to know how the code worked. The rule of the thumb is; *if it's on GitHub, then it's open source and freely to use under the MIT license.* But after getting stuck, unseasoned developers are prompted to write to software owners and request help/opinion on how a piece of script would fit well in their projects. 
+
+So this documentation is targeted to developers and users who are curious to know the behind the scenes stuff on what made it possible for the application to come to be.
 
 ## What does the documentation entail
 
-The Scope of this documentation is to show the **basic** steps I took in coding this application. This is NOT a **tutorial**. It won't teach your anything about CMS's, MEAN Stack, Databases or what have you. Just to let you know before you get started (I value people time :-). 
+The Scope of this documentation is to show in the **basic** way possible (without jargon) the steps I took in building this application. This is NOT a **tutorial**. It won't teach your anything about CMS's, MEAN Stack, DB's or what have you. Just to let you know before you get started (I value people's time :-). 
 
 ## Wordpress Release
 Wordpress was released in 2003 and since then it has evolved tremendously and now has become one of the best web technologies in building websites. 
@@ -84,11 +86,19 @@ There are a myriad of reason as to why I love using open-source software in desi
 
 # Why Wordpress?
 
-Wordpress is great in building almost any website. A developer can design a theme and sell to whomever wants to buy, eg [themeforest](https://themeforest.net/search?utf8=%E2%9C%93&term=ecommerce&as=0&referrer=homepage), etc. Themes vary from free downloadables to a cost that would vary from  $2, see [here](https://themeforest.net/item/sketch-and-css-bridging-the-gap/15284085?s_rank=1) up to a cost way beyond $999, like  [this](https://themeforest.net/item/fightclub-fight-fitness-club-psd-template/12237033?s_rank=17). It all depends really on what your website entails, your target audience, security features, design, etc. 
+Wordpress has somewhat become trendy in building CMS's for web publishing if the main goal is to have a website with pages, media, links and posts. A skilled developer can easily venture deep in the Wordpress ecosystem and use themes and plugins to suit his/her **needs**. Talking of needs, a bus cannot float on water unless it's well customised to function like a boat, like a case I saw in Budapest.   
+<div>
+<center>![img_9373](https://cloud.githubusercontent.com/assets/20464709/21954779/f02dbfe0-da5b-11e6-9d50-4fb5b11a5981.JPG)</center>  
+</div>
+<hr>
+
+That out of the way, it's important to underscore the fact that complex applications will need complex technologies eg banks, hospitals, corporate companies, etc. 
+
+When it comes to themes, a developer can design one and sell to whomever wants to buy, eg [themeforest](https://themeforest.net/search?utf8=%E2%9C%93&term=ecommerce&as=0&referrer=homepage), etc. Themes vary from free downloadables to a cost that would vary from  $2, see [here](https://themeforest.net/item/sketch-and-css-bridging-the-gap/15284085?s_rank=1) up to a cost way beyond $999, like  [this](https://themeforest.net/item/fightclub-fight-fitness-club-psd-template/12237033?s_rank=17). It all depends really on what your website entails, your target audience, security features, design, etc. 
 
 Been an open-source technology, bugs within the CMS are fixed in a timely manner and any developer can contribute via a pull request and later submitting in GitHub. 
 
-Wordpress, [Joomla](https://en.wikipedia.org/wiki/Joomla) and [Drupal](https://en.wikipedia.org/wiki/Drupal) are currently the trending CMS systems in the planet at the time of writing. Their ability to deliver projects within the given time frame coupled with their versatility to use functionalities which reside in plugins have led to their growth and support globally. 
+Wordpress, [Joomla](https://en.wikipedia.org/wiki/Joomla) and [Drupal](https://en.wikipedia.org/wiki/Drupal) are currently the trending CMS systems in the planet at the time of writing. Their ability to deliver projects within a given time frame coupled with their versatility to use functionalities which reside in plugins have led to their growth and support globally. 
  
 
 # Technologies used
@@ -383,7 +393,7 @@ In most cases I code locally and later upload to my cPanel. I will try andupload
 
 ## Developer
 
-Joseph Musembi Mwania
+Joseph M Mwania
 
 ## Contacts
 
