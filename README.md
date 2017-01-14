@@ -239,7 +239,8 @@ Google JavaScript API do need authentications. I have a premium plan and thus en
   - **API key** set up in the Google Maps APIs 
   - **Client ID** instead of an API key.
 I always encourage clients to get a private API instead of using APIS's from a developer for many reasons which are beyond the scope of this documentation. 
-Many developers also turn out as site admins after delivering projects enjoying some special perks as website maintenance. Having a private API key, you can log in and see what's happening instead of relying on what someone else is saying. (Remember the old adage? **Trust but Verify.**) 
+
+Many developers also turn out as site admins after delivering projects enjoying some special perks for website maintenance. Having a private API key, you can log in and see what's happening instead of relying on what someone else is saying. (Remember the old adage? **Trust but Verify.**) 
 
 
 ## Simple Light Box
