@@ -2,17 +2,17 @@
 <h1>Company Website</h1> 
 <h2>Software Development Documentation</h2>
   <h3>
-    <a href="http://theappwebtech.com">
-      Appwebtech
+    <a href="">
+  
     </a>
   </h3>
 </div>
 
 <div align="center">
   <sub>Developed and Designed by
-  <a href="#">Joseph M Mwania</a> for
-  <a href="#http://theappwebtech.com">
-    Appwebtech
+  <a href="#">J0e</a> for
+  <a href="">
+    App
   </a>
 </div>
 
@@ -395,19 +395,11 @@ In most cases I code locally and later upload to my cPanel. I will try andupload
 
 ## Developer
 
-Joseph M Mwania
+J0e
 
 ## Contacts
 
-http://www.theappwebtech.com/
 
-https://github.com/appwebtech
-
-https://twitter.com/appwebtech
-
-https://www.facebook.com/theappwebtech/
-
-https://it.pinterest.com/appwebtech/
 
 ## License 
 
